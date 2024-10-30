@@ -1,0 +1,18 @@
+Email: dominic.paulraj@capgemini.com | IP Address: 10.207.25.79 | Timestamp: 2024-10-24 13:11:20 | Score: 5
+
+Email: amit.virmani@capgemini.com | IP Address: 10.233.255.51 | Timestamp: 2024-10-24 13:59:57 | Score: 8
+Email: chris.williamson@capgemini.com | IP Address: 10.207.25.79 | Timestamp: 2024-10-24 14:01:16 | Score: 18
+Email: amit.virmani@capgemini.com | IP Address: 10.233.255.51 | Timestamp: 2024-10-24 14:01:57 | Score: 5
+Email: faruk.momin@capgemini.com | IP Address: 10.207.24.171 | Timestamp: 2024-10-24 14:03:31 | Score: 9
+Email: ranjit-kumar.singh@capgemini.com | IP Address: 10.100.110.130 | Timestamp: 2024-10-24 14:09:03 | Score: 6
+Email: dhiren.sharma@capgemini.com | IP Address: 10.207.25.78 | Timestamp: 2024-10-24 14:10:20 | Score: 18
+Email: renuka.nimbalkar@capgemini.com | IP Address: 10.246.130.214 | Timestamp: 2024-10-24 14:10:37 | Score: 15
+Email: adithya-sai.vadlamoodi@capgemini.com | IP Address: 10.108.8.9 | Timestamp: 2024-10-24 14:10:39 | Score: 9
+Email: kailash.amberkar@capgemini.com | IP Address: 10.207.25.78 | Timestamp: 2024-10-24 14:10:41 | Score: 8
+Email: abhinand-s.bhavan@capgemini.com | IP Address: 10.237.192.149 | Timestamp: 2024-10-24 14:10:49 | Score: 17
+Email: amit.virmani@capgemini.com | IP Address: 10.233.255.51 | Timestamp: 2024-10-24 14:10:51 | Score: 8
+Email: mahesh.akiwate@capgemini.com | IP Address: 10.100.68.2 | Timestamp: 2024-10-24 14:10:56 | Score: 11
+Email: dominic.paulraj@capgemini.com | IP Address: 10.207.25.79 | Timestamp: 2024-10-24 14:11:15 | Score: 8
+Email: martijn.hessels@capgemini.com | IP Address: 10.38.110.94 | Timestamp: 2024-10-24 14:11:28 | Score: 20
+Email: akansha.c.singh@capgemini.com | IP Address: 10.100.67.2 | Timestamp: 2024-10-24 14:12:01 | Score: 10
+Email: chris.williamson@capgemini.com | IP Address: 10.207.25.79 | Timestamp: 2024-10-24 14:15:14 | Score: 23
