@@ -1,0 +1,2 @@
+User-agent: *
+Replace "/robots.txt" with "/ROB/robots.txt" in the URL
